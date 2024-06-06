@@ -153,8 +153,3 @@ encontrarás todo lo que necesitas para comenzar tu aventura con nosotros.</p>
 
  
  <!--..........................................................CONTACTO..........................................................-->
- <h2>Si tienes dudas sobre este repositorio puedes escribirnos a:</h2>
-
- <a href="mailto:esportsmelg@gmail.com">
- <img src="https://icongr.am/entypo/email.svg?size=128&color=currentColor" width="50" height="50">
-  </a> 
