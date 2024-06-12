@@ -55,7 +55,6 @@ encontrarás todo lo que necesitas para comenzar tu aventura con nosotros.</p>
 
  </div>
  
-
 <!--..............................................TECNOLOGÍAS DE CADA DEPARTAMENTO...................................................-->
 <div>
   <h3>Tecnologías usadas</h3>
@@ -134,9 +133,6 @@ encontrarás todo lo que necesitas para comenzar tu aventura con nosotros.</p>
   </table>
 </div>
 
-
-
-
  <!--................................................INSTALACIÓN Y USO.......................................................-->
  <h2>Pasos para su instalación y uso</h2> [En Construcción]
 
@@ -156,43 +152,42 @@ encontrarás todo lo que necesitas para comenzar tu aventura con nosotros.</p>
   </a>
  </div>
 
-
-
   <!--............................................................EQUIPO...............................................................-->
-  <div>
+ <div>
     <h2>Nuestro equipo</h2>
 
-| ![image](https://github.com/No-Country/s15-06-t-node-react/assets/48597230/f72b936f-a3c8-4218-b5f1-795a7effc00f) | 
+| <img src="https://github.com/No-Country/s15-06-t-node-react/assets/48597230/f72b936f-a3c8-4218-b5f1-795a7effc00f" style="width:200px; height:auto;"> | 
 |:-:|
 | **Bazan Julio Pablo Federico - PM/QA Lead**| 
 | <a href="https://www.linkedin.com/in/julio-bazan-6ba406212/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> |
 
-| ![image](https://github.com/No-Country/s15-06-t-node-react/assets/48597230/e95491b2-eeb1-42b1-af0e-f1f85c7304a6) | 
+| <img src="https://github.com/No-Country/s15-06-t-node-react/assets/48597230/e95491b2-eeb1-42b1-af0e-f1f85c7304a6" style="width:200px; height:auto;"> | 
 |:-:|
 | **Lisandro Arguello - Diseño UX UI**| 
 | <a href="https://www.linkedin.com/in/lisandroarguello/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> |
 
-| <img src="https://github.com/No-Country/s14-16-n-java/blob/main/images/team/placeholder.png" width=200>| <img src="https://github.com/No-Country/s14-16-n-java/blob/main/images/team/placeholder.png" width=200>| 
+| <img src="https://github.com/No-Country/s15-06-t-node-react/assets/48597230/633aaf9e-8b32-4dcf-9d96-827beb9b18ca" style="width:200px; height:auto;">| <img src="https://github.com/No-Country/s15-06-t-node-react/assets/48597230/d6a8307a-7179-424b-911d-d8cf2290503a" style="width:200px; height:auto;">| 
 |:-:|:-:|
 | **Aracely Cruz Del ángel - Front**| **Enrique Ginfeu - Front**|
 | <a href="https://www.linkedin.com/in/aracruzdelangel/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> | <a href="https://www.linkedin.com/in/ginfeu-enrique/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> | 
 
-| <img src="https://github.com/No-Country/s14-16-n-java/blob/main/images/team/placeholder.png" width=200>| <img src="https://github.com/No-Country/s14-16-n-java/blob/main/images/team/placeholder.png" width=200>| <img src="https://github.com/No-Country/s14-16-n-java/blob/main/images/team/placeholder.png" width=200>|
+| <img src="https://github.com/No-Country/s15-06-t-node-react/assets/48597230/42ae0542-c6d5-45c8-871d-bd45998d8698" style="width:200px; height:auto;">| <img src="https://github.com/No-Country/s15-06-t-node-react/assets/48597230/8c91bba2-0aa1-40be-86e5-52be8d4e0841)" style="width:200px; height:auto;">| <img src="https://github.com/No-Country/s15-06-t-node-react/assets/48597230/ca34d456-7814-4d6d-bcd4-181b9fb7a8c1" style="width:200px; height:auto;">|
 |:-:|:-:|:-:|
 | **Mauro Laime - Front**| **Bruno Aguilar - Front**| **David Hilera Ramírez - Front** |
-| <a href="www.linkedin.com/in/mauro-laime-854a43267"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> | <a href="https://www.linkedin.com/in/brunoagdev/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> | <a href="https://www.linkedin.com/in/davidhilera/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> |
+| <a href="https://www.linkedin.com/in/mauro-laime-854a43267/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> | <a href="https://www.linkedin.com/in/brunoagdev/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> | <a href="https://www.linkedin.com/in/davidhilera/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> |
 
-| <img src="https://github.com/No-Country/s14-16-n-java/blob/main/images/team/placeholder.png" width=200>| <img src="https://github.com/No-Country/s14-16-n-java/blob/main/images/team/placeholder.png" width=200>| 
+| <img src="https://github.com/No-Country/s15-06-t-node-react/assets/48597230/5b73064c-2e05-4de7-b410-bd763ad97065" style="width:200px; height:auto;">| <img src="https://github.com/No-Country/s15-06-t-node-react/assets/48597230/f28bf0dd-26c6-4a8f-974e-f5eef58ec8b5" style="width:200px; height:auto;">| 
 |:-:|:-:|
 | **Camilo Pérez - Front**| **Erick Wladimir Arevalo Navarro - Back**|
 | <a href="https://www.linkedin.com/in/camilo-perez-398b62186/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> | <a href="https://www.linkedin.com/in/erick-arevalo-951081222/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> | 
 
-| <img src="https://github.com/No-Country/s14-16-n-java/blob/main/images/team/placeholder.png" width=200>| 
+| <img src="https://github.com/No-Country/s15-06-t-node-react/assets/48597230/9fb162a4-1590-4bcc-946c-ec5d485e1d9a" style="width:200px; height:auto;">| 
 |:-:|
 | **Gabriela Pardo - QA**| 
 | <a href="https://www.linkedin.com/in/gabriela-beatriz-pardo/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> |
 
-  
+</div>
+
   <!--........................................................CÓMO NOS ORGANIZAMOS....................................................-->
   <div>
   <h2>Cómo nos organizamos</h2>
