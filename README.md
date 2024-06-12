@@ -134,23 +134,16 @@ encontrarás todo lo que necesitas para comenzar tu aventura con nosotros.</p>
 </div>
 
  <!--................................................INSTALACIÓN Y USO.......................................................-->
- <h2>Pasos para su instalación y uso</h2> [En Construcción]
-
+ <h2>Pasos para su instalación y uso</h2>
 <div>
-<a href="">
-
-![VER Instalación](https://img.shields.io/badge/VER_INSTALACIÓN-blue?style=for-the-badge&logo=VER_INSTALACIÓN)
-
+<a href="https://github.com/No-Country/s15-06-t-node-react/blob/back/backend/README.md">
+Instalación BACK
+</a><br>
+<a href="https://github.com/No-Country/s15-06-t-node-react/tree/front/frontend#readme">
+Instalación FRONT
 </a>
 </div>
 
- <div>
-  <a href="mailto:">
- 
- ![INFORMAR ERROR](https://img.shields.io/badge/INFORMAR_ERROR-orange?style=for-the-badge&logo=INFORMAR_ERROR)
-
-  </a>
- </div>
 
   <!--............................................................EQUIPO...............................................................-->
  <div>
