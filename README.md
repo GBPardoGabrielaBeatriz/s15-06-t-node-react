@@ -58,39 +58,82 @@ encontrarás todo lo que necesitas para comenzar tu aventura con nosotros.</p>
 
 <!--..............................................TECNOLOGÍAS DE CADA DEPARTAMENTO...................................................-->
 <div>
-  <h3>Tecnologías usadas</h3> [En Construcción]
+  <h3>Tecnologías usadas</h3>
 
-| UX |
-| ------- |
-|<img src="https://img.shields.io/badge/OPTIMAL_WORKSHOP-fdd604?style=for-the-badge&logo=OPTIMAL_WORKSHOP" alt="Optimal-Workshop"/> [Ver informe](https://app.optimalworkshop.com/optimalsort/hkzkaoav/ldabeqxv/shared-results/rfz67o9wrklemcmmzaszoquk1mu6ckoo)|
-|<img src="https://img.shields.io/badge/WHIMSICAL-8313dd?style=for-the-badge&logo=WHIMSICAL" alt="Whimsical"/> [Ver informe](https://whimsical.com/mapa-del-sitio-foodlyfinds-VT4aqgrdUbcKDsZ77c1Et6)|
+  <h4>DISEÑO</h4>
+  <table>
+    <tr>
+      <td><img height="32" src="https://img.shields.io/badge/FIGMA-f66042?style=for-the-badge&logo=Figma&logoColor=fff" alt="Figma"/> <a href="https://www.figma.com/design/hPfd07TKi0d3ORkGBvyCc9/NoCountry?node-id=0-1&t=f8c9emb8MHo6BooE-0">Ver informe(BAJA)</a></td>
+    </tr>
+    <tr>
+      <td><img height="32" src="https://img.shields.io/badge/FIGMA-f66042?style=for-the-badge&logo=Figma&logoColor=fff" alt="Figma"/> <a href="https://www.figma.com/design/hPfd07TKi0d3ORkGBvyCc9/NoCountry?node-id=522-114&t=ygXMFOq78W0vIAdB-0">Ver informe(ALTA)</a></td>
+    </tr>
+  </table>
 
-| UI |
-| ------- |
-|<img height="32" src="https://img.shields.io/badge/FIGMA-f66042?style=for-the-badge&logo=Figma&logoColor=fff" alt="Figma"/> [Ver informe](https://www.figma.com/file/UT1VY46ggnHHnnNDm6C4f4/s14-16-n-java?type=design&node-id=23%3A8&mode=design&t=6CfpaMmj1rOwweUC-1)|
-|<img width="100" height="30" src="https://img.shields.io/badge/PHOTOSHOP-31a8ff?style=for-the-badge&logo=Photoshop&logoColor=fff" alt="Photoshop"/>|
-|<img width="100" height="30" src="https://img.shields.io/badge/ILLUSTRATOR-ff9a00?style=for-the-badge&logo=Illustrator&logoColor=fff" alt="Ilustrator"/>|
-  
-| FRONT END |
-| ------- |
-|<img width="125" height="28" src="https://img.shields.io/badge/Javascript-efda4f?style=for-the-badge&logo=Javascript&logoColor=fff" alt="Javascript"/>|
-|<img width="125" height="28" src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=" alt="React"/>|
-|<img width="125" height="28" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/> [](https://vitejs.dev/guide/)|
-|<img width="125" height="28" src="https://img.shields.io/badge/HTML5-e44d26?style=for-the-badge&logo=HTML5&logoColor=fff" alt="HTML5"/>|
-|<img width="125" height="28" src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=CSS3&logoColor=fff" alt="CSS"/>|
-|<img width="125" height="28" src="https://img.shields.io/badge/Markdown-black?style=for-the-badge&logo=Markdown&logoColor=fff" alt="MarkDown"/>|
+  <h4>FRONT END</h4>
+  <table>
+    <tr>
+      <td><img width="125" height="28" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript"/></td>
+    </tr>
+    <tr>
+      <td><img width="125" height="28" src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=" alt="React"/></td>
+    </tr>
+    <tr>
+      <td><img width="125" height="28" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/></td>
+    </tr>
+    <tr>
+      <td><img width="125" height="28" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/></td>
+    </tr>
+    <tr>
+      <td><img width="125" height="28" src="https://img.shields.io/badge/Server_Actions-007ACC?style=for-the-badge&logo=microsoft&logoColor=white" alt="Server Actions"/></td>
+    </tr>
+    <tr>
+      <td><img width="125" height="28" src="https://img.shields.io/badge/NextUI-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NextUI"/></td>
+    </tr>
+    <tr>
+      <td><img width="125" height="28" src="https://img.shields.io/badge/HTML5-e44d26?style=for-the-badge&logo=HTML5&logoColor=fff" alt="HTML5"/></td>
+    </tr>
+    <tr>
+      <td><img width="125" height="28" src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=CSS3&logoColor=fff" alt="CSS"/></td>
+    </tr>
+  </table>
 
-| BACK END |
-| ------- |
+  <h4>BACK END</h4>
+  <table>
+    <tr>
+      <td><img width="125" height="28" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript"/></td>
+    </tr>
+    <tr>
+      <td><img width="125" height="28" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=fff" alt="NestJS"/></td>
+    </tr>
+    <tr>
+      <td><img width="125" height="28" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT"/></td>
+    </tr>
+    <tr>
+      <td><img width="125" height="28" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff" alt="Docker"/></td>
+    </tr>
+    <tr>
+      <td><img width="125" height="28" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff" alt="PostgreSQL"/></td>
+    </tr>
+  </table>
 
-
-| QA |
-| ------- |
-|<img width="125" height="28" src="https://img.shields.io/badge/Postman-fe6a33?style=for-the-badge&logo=Postman&logoColor=fff" alt="Postman"/>|
-
-|<img width="125" height="28" src="https://img.shields.io/badge/Excel-127b42?style=for-the-badge&logo=Excel&logoColor=fff" alt="Excel"/>|
-  
+  <h4>QA</h4>
+  <table>
+    <tr>
+      <td><img width="125" height="28" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=fff" alt="Excel"/></td>
+    </tr>
+    <tr>
+      <td><img width="125" height="28" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff" alt="Postman"/></td>
+    </tr>
+    <tr>
+      <td><img width="125" height="28" src="https://img.shields.io/badge/Javascript-efda4f?style=for-the-badge&logo=Javascript&logoColor=fff" alt="Javascript"/></td>
+    </tr>
+    <tr>
+      <td><img width="125" height="28" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=fff" alt="Cypress"/></td>
+    </tr>
+  </table>
 </div>
+
 
 
 
@@ -119,16 +162,35 @@ encontrarás todo lo que necesitas para comenzar tu aventura con nosotros.</p>
   <div>
     <h2>Nuestro equipo</h2>
 
-| Foto Sujeto <img src="" width=200>| 
+| ![image](https://github.com/No-Country/s15-06-t-node-react/assets/48597230/f72b936f-a3c8-4218-b5f1-795a7effc00f) | 
 |:-:|
-| **sujeto 1**| 
-| <a href=""><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> <a href=""><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> |
+| **Bazan Julio Pablo Federico - PM/QA Lead**| 
+| <a href="https://www.linkedin.com/in/julio-bazan-6ba406212/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> |
 
-| Foto Sujeto <img src="" width=200>| 
+| ![image](https://github.com/No-Country/s15-06-t-node-react/assets/48597230/e95491b2-eeb1-42b1-af0e-f1f85c7304a6) | 
 |:-:|
-| **sujeto 2**| 
-| <a href=""><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> <a href=""><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> |
+| **Lisandro Arguello - Diseño UX UI**| 
+| <a href="https://www.linkedin.com/in/lisandroarguello/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> |
 
+| <img src="https://github.com/No-Country/s14-16-n-java/blob/main/images/team/placeholder.png" width=200>| <img src="https://github.com/No-Country/s14-16-n-java/blob/main/images/team/placeholder.png" width=200>| 
+|:-:|:-:|
+| **Aracely Cruz Del ángel - Front**| **Enrique Ginfeu - Front**|
+| <a href="https://www.linkedin.com/in/aracruzdelangel/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> | <a href="https://www.linkedin.com/in/ginfeu-enrique/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> | 
+
+| <img src="https://github.com/No-Country/s14-16-n-java/blob/main/images/team/placeholder.png" width=200>| <img src="https://github.com/No-Country/s14-16-n-java/blob/main/images/team/placeholder.png" width=200>| <img src="https://github.com/No-Country/s14-16-n-java/blob/main/images/team/placeholder.png" width=200>|
+|:-:|:-:|:-:|
+| **Mauro Laime - Front**| **Bruno Aguilar - Front**| **David Hilera Ramírez - Front** |
+| <a href="www.linkedin.com/in/mauro-laime-854a43267"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> | <a href="https://www.linkedin.com/in/brunoagdev/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> | <a href="https://www.linkedin.com/in/davidhilera/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> |
+
+| <img src="https://github.com/No-Country/s14-16-n-java/blob/main/images/team/placeholder.png" width=200>| <img src="https://github.com/No-Country/s14-16-n-java/blob/main/images/team/placeholder.png" width=200>| 
+|:-:|:-:|
+| **Camilo Pérez - Front**| **Erick Wladimir Arevalo Navarro - Back**|
+| <a href="https://www.linkedin.com/in/camilo-perez-398b62186/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> | <a href="https://www.linkedin.com/in/erick-arevalo-951081222/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> | 
+
+| <img src="https://github.com/No-Country/s14-16-n-java/blob/main/images/team/placeholder.png" width=200>| 
+|:-:|
+| **Gabriela Pardo - QA**| 
+| <a href="https://www.linkedin.com/in/gabriela-beatriz-pardo/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> |
 
   
   <!--........................................................CÓMO NOS ORGANIZAMOS....................................................-->
