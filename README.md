@@ -8,7 +8,7 @@
  <h2 align="center">"Vive la Emoción de Cada Deporte"</h2>
 
 <div>
-<p>¡Bienvenidos al Club Deportivo "Santa Lucia Club"!</p>
+<p>¡Bienvenidos al Club Deportivo "Santa Ana Club"!</p>
 
 <p>Nos complace invitarte a ser parte de nuestra comunidad deportiva, un lugar donde la pasión por el 
 deporte y la salud se combinan con la diversión y el compañerismo. En nuestra página web, 
