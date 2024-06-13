@@ -3,7 +3,7 @@
   <img src="https://github.com/No-Country/s15-06-t-node-react/assets/48597230/58bedd1f-32ee-42f5-a50d-59f134d93f5d">
 </div>
 
- <h1 align="center">"Santa Lucia Club"</h1>
+ <h1 align="center">"Santa Ana Club"</h1>
 
  <h2 align="center">"Vive la Emoción de Cada Deporte"</h2>
 
@@ -41,7 +41,7 @@ encontrarás todo lo que necesitas para comenzar tu aventura con nosotros.</p>
  <!--.................................................INFORMACIÓN TÉCNICA......................................................-->
  <h2>Información Técnica</h2>
  
- **Proyecto para No Country Marzo-Abril 2024**
+ **Proyecto para No Country Mayo-Junio 2024**
  > Grupo: s15-06-t-node-react
 
 <h3>Características generales</h3>
