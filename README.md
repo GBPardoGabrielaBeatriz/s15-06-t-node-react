@@ -119,10 +119,10 @@ encontrarás todo lo que necesitas para comenzar tu aventura con nosotros.</p>
   <h4>QA</h4>
   <table>
     <tr>
-      <td><img width="125" height="28" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=fff" alt="Excel"/></td>
+      <td><img width="125" height="28" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=fff" alt="Excel"/><a href="https://drive.google.com/drive/folders/1RMk7YesaFeN_TpCzdGuKCt3cmZiAyklv?usp=sharing">Ver informe</a></td>
     </tr>
     <tr>
-      <td><img width="125" height="28" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff" alt="Postman"/></td>
+      <td><img width="125" height="28" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff" alt="Postman"/><a href="https://dark-firefly-608066.postman.co/workspace/Club-Social~f8ebd682-e619-4fa1-9f3a-398e0cad33e4/collection/22504789-1d83b081-1f33-45f0-80f4-d2222bafac49?action=share&creator=22504789&active-environment=22504789-ec362b58-3dd7-45a9-9afd-ba4ed107c4d6">Ver informe</a></td>
     </tr>
     <tr>
       <td><img width="125" height="28" src="https://img.shields.io/badge/Javascript-efda4f?style=for-the-badge&logo=Javascript&logoColor=fff" alt="Javascript"/></td>
